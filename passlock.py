@@ -40,7 +40,7 @@ class Credentials():
     @classmethod
     def verify_user(cls,username, password):
         """
-        method to verify whether the user is in our user_list or not
+        
         """
         a_user = ""
         for user in User.user_list:
