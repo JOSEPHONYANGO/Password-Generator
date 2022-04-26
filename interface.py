@@ -121,9 +121,7 @@ def passlocker():
         print("Use these short codes:\n CC - Create a new credential \n DC - Display Credentials \n FC - Find a credential \n GP - Generate A randomn password \n D - Delete credential \n EX - Exit the application \n")
         short_code = input().lower().strip()
         if short_code == "cc":
-            print("Create New Credential")
-            print("."*20)
-            print("Account name ....")
+            
             account = input().lower()
             print("Your Account username")
             userName = input()
