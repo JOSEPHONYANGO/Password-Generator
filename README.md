@@ -8,9 +8,11 @@ This project is a python application that manages login and signup credentials o
 
 ## Installation/Set-up
 The application requires the following installations to run:
-* python3.6
+* python3.8
 * pyperclip
 * pip
+## Technologies Used
+Python3.8
 ## Known Bugs
 There are no known bugs currently but pull requests are allowed incase you spot a bug
 # Contact Information
