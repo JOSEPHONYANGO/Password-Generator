@@ -52,9 +52,7 @@ class Credentials():
         """
         method that defines user credentials to be stored
         """
-        self.account = account
-        self.userName = userName
-        self.password = password
+        
     
     def save_details(self):
         """
