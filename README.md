@@ -11,6 +11,8 @@ The application requires the following installations to run:
 * python3.6
 * pyperclip
 * pip
+## Known Bugs
+There are no known bugs currently but pull requests are allowed incase you spot a bug
 # Contact Information
 If you have any questions or contributions please email talantadigitalke@gmail.com
 
